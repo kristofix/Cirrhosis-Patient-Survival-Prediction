@@ -10,9 +10,13 @@ Here is one of results:
 
 Sampling: 2, Threshold: 0.05
 Confusion Matrix:
+
 [854  64  75]
+
 [ 17  29   9]
+
 [127  55 351]
+
               precision    recall  f1-score   support
 
            0       0.86      0.86      0.86       993
